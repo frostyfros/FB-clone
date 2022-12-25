@@ -1,0 +1,86 @@
+body{
+    background:#F0F2F5;
+    position:fixed;
+}
+h1{
+    
+    color: #1877F2;
+    padding-top: 180px;
+    padding-left: 180px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    margin: 0px;
+}
+i{
+    margin: 0px;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 180px;
+}
+.cokka{
+    background: white;
+    height: 330px;
+    width: 400px;
+    position: relative;
+    left: 750px;
+  /*  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  */  bottom: 6cm;
+    border-radius: 10px;
+}
+input{
+    margin-left: 10px;
+    font-size:medium; 
+    width: 345px;
+    height: 40px;
+    padding-left: 30px;
+    margin-top: 15px;
+    border-color: #DDDFE2;
+    border-width: 1px;
+    border-radius: 6px;
+}
+input[type=text]:focus{
+    border: 2px solid #1877F2;
+}
+
+.yy{
+    border: 0px;
+    background: #007FFF;
+    margin-left: 10px;
+    font-size:x-large; 
+    /*padding-left: 250px;*/
+    width: 380px;
+    height: 40px;
+    border-radius: 5px;
+    
+    margin-top: 15px;
+    color: white;
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nimmo{
+    color: #007FFF;
+    font-size: medium;
+    padding-left: 4cm;
+}
+a{
+    color: #007FFF;
+}
+#final{
+
+    color: white;
+    background-color: #42B72A;
+    font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    border: #42B72A;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 95px;
+    height: 45px;
+    width: 200px;
+}
+.antim{
+    position: relative;
+    left: 800px;
+    bottom: 220px;
+}
